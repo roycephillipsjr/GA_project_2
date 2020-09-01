@@ -1,7 +1,7 @@
 # Ames Housing Project
 
 ## Problem Statement
-Using data Ames Housing dataset from Kaggle. The goal is to create the best model to predict the price of a home in Ames Iowa.
+Using Ames Housing dataset from Kaggle. The goal is to create the best model to predict the price of a home in Ames Iowa.
 Trying to find the best features that will increase the value of a home.
 
 ## Executive Summary
